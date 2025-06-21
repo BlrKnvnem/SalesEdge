@@ -64,7 +64,7 @@ SalesEdge/
 
 ## 🤝 Let's Connect!
 
-If you're interested in this project or looking for data-driven minds for your team, feel free to connect:
+If you're interested in this project or looking for data-driven minds for your team, feel free to connect: 
 
 ---
 
