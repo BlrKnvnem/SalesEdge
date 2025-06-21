@@ -1,4 +1,3 @@
-# SalesEdge
 # 📊 SalesEdge: Unlocking Retail & Wholesale Insights with Python
 
 **SalesEdge** is an end-to-end sales analytics project built using Python. It analyzes retail and wholesale transactions, product categories, and loss rates to uncover trends and insights that can support strategic business decisions in sales, inventory, and supply chain.
